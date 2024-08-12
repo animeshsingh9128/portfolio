@@ -52,3 +52,12 @@ p {
  h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
  }
+@media screen and (max-width:480px) {
+
+    body{
+        background-color:#444444;
+        background-image: none;
+        font-size: smaller;
+    }
+    
+}
